@@ -1,0 +1,64 @@
+{
+  "photographers": [
+    {
+      "id": "1",
+      "name": "Ravi Studio",
+      "location": "Bengaluru",
+      "price": 10000,
+      "rating": 4.6,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+     "portfolio": [
+  "https://picsum.photos/id/1018/300/200",
+  "https://picsum.photos/id/1015/300/200",
+  "https://picsum.photos/id/1016/300/200"
+],
+"profilePic": "https://picsum.photos/id/1025/300/200"
+
+,
+      "reviews": [
+        
+  {
+    "name": "Ananya",
+    "rating": 5,
+    "comment": "Truly amazing photos and experience!",
+    "date": "2024-12-15"
+  }
+]
+
+      
+    },
+    {
+      "id": "2",
+      "name": "Lens Queen",
+      "location": "Delhi",
+      "price": 12000,
+      "rating": 4.4,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids.",
+      "profilePic": "https://picsum.photos/id/1016/300/200",
+      "portfolio": [],
+      "reviews": []
+    },
+    {
+      "id": "3",
+      "name": "Click Factory",
+      "location": "Mumbai",
+      "price": 8000,
+      "rating": 4.8,
+      "styles": ["Studio", "Outdoor"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories.",
+      "profilePic": "https://picsum.photos/id/1016/300/200",
+      "portfolio": [],
+      "reviews": []
+    }
+  ]
+}
+
+
+
+
+
